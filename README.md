@@ -1,8 +1,10 @@
 # FallHacks2022
 <em>
-Amr Sharafeldin, Sallin Koutev, Frank Woodworth, Illia Nasiri
-1.Install Unreal Engine 4.23
-2. download the folder provided on github
-3. open the folder and double click the LastSecond.uproject
-4. fom the editor, click the play button and enjoy!
-</em>
+Amr Sharafeldin, Sallin Koutev, Frank Woodworth, Illia Nasiri</em>
+
+<ol>
+  <li>Install Unreal Engine 4.23</li>
+  <li>download the folder provided on github</li>
+  <li>open the folder and double click the LastSecond.uproject</li>
+  <li>fom the editor, click the play button and enjoy!</li>
+</ol>
